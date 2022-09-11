@@ -1,4 +1,3 @@
-[![MasterHead](https://thumbs.gfycat.com/AthleticKaleidoscopicCentipede-size_restricted.gif](https://gfycat.com/massiveclassiccatbird)]
 <h1 align="center">Hi 👋, I'm Zeinshirou</h1>
 <h3 align="center">Just a student who learns code to reach his dream</h3>
 <img align="right" alt="Picture" width="400" src="https://c.tenor.com/2uuLhWVyTvwAAAAd/elysia.gif">
