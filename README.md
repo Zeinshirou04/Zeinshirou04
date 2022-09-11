@@ -1,7 +1,7 @@
 [![MasterHead](https://c.tenor.com/kYZFHXa2YaEAAAAC/anime-sky.gif)]
 <h1 align="center">Hi 👋, I'm Zeinshirou</h1>
 <h3 align="center">Just a student who learns code to reach his dream</h3>
-<img allign="right" alt="Picture" width="400" src="https://c.tenor.com/2uuLhWVyTvwAAAAd/elysia.gif">
+<img align="right" alt="Picture" width="400" src="https://c.tenor.com/2uuLhWVyTvwAAAAd/elysia.gif">
 
 <p align="left"> <a href="https://twitter.com/zeinshirou" target="blank"><img src="https://img.shields.io/twitter/follow/zeinshirou?logo=twitter&style=for-the-badge" alt="zeinshirou" /></a> </p>
 
