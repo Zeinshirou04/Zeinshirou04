@@ -1,4 +1,7 @@
+<p align="center">
 <h1 align="center">🐱‍👤 Zein 🐱‍👤</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8BF7E8&center=true&width=435&lines=%F0%9F%91%8B+Welcome+%7C+%E5%85%A5%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B+%F0%9F%91%8B;%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4I'am+Zen+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;%F0%9F%91%80+Have+A+Look+%F0%9F%91%80;%F0%9F%99%8F+Thanks+For+Visiting+%F0%9F%99%8F" alt="Typing SVG" /></a>
+</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
