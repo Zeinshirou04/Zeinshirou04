@@ -3,8 +3,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Zen's Github Stats&username=Zeinshirou" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=default &card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=Zeinshirou" height="0" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Zen's Github Stats&username=Zeinshirou04" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=default &card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=Zeinshirou04" height="0" alt="languages graph"  />
 </div>
 
 <div align="center">
@@ -26,7 +26,3 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/Zeinshirou/Zeinshirou/blob/output/snake.svg" alt="Snake animation" />
