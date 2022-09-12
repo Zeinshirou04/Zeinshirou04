@@ -1,7 +1,6 @@
 <p align="center">
   <img align="left" src="[https://tenor.com/view/elysia-chibi-anime-gif-25071216](https://c.tenor.com/tPf-Uw7FsyEAAAAd/elysia-chibi-anime.gif)">
   <img align="right" src="[https://tenor.com/view/elysia-chibi-anime-gif-25071216](https://c.tenor.com/tPf-Uw7FsyEAAAAd/elysia-chibi-anime.gif)">
-  <h1 align="center">Zeinshirou</h1>
 </p>
 
 <p align="center">
