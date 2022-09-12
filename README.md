@@ -1,8 +1,10 @@
 <p align="center">
   <h1 align="center">Zeinshirou</h1>
+</p>
   <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?    font=Fira+Code&duration=2000&pause=1000&color=0E00F7&width=435&lines=Welcome+%2F+%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B%E3%83%BC;My+Name+Is+Zen;Have+A+Look;And+Have+A+Nice+Day" alt="Typing SVG" /></a>
+<p align="center">
   <img align="right" alt="Picture" width="30%" src="https://c.tenor.com/2uuLhWVyTvwAAAAd/elysia.gif">
- </p>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
