@@ -1,4 +1,4 @@
-<img align="left" width="20%" src="[https://c.tenor.com/tPf-Uw7FsyEAAAAd/elysia-chibi-anime.gif](https://c.tenor.com/tPf-Uw7FsyEAAAAd/elysia-chibi-anime.gif)">
+<img align="left" width="50%" src="[https://c.tenor.com/tPf-Uw7FsyEAAAAd/elysia-chibi-anime.gif](https://c.tenor.com/tPf-Uw7FsyEAAAAd/elysia-chibi-anime.gif)">
 <img align="right" width="20%" src="[https://c.tenor.com/tPf-Uw7FsyEAAAAd/elysia-chibi-anime.gif](https://c.tenor.com/tPf-Uw7FsyEAAAAd/elysia-chibi-anime.gif)">
 
 <p align="center">
