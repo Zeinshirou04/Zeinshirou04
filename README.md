@@ -1,6 +1,6 @@
 <p>
   <img align="right" width="25%" style="display:inline;" src="https://c.tenor.com/2uuLhWVyTvwAAAAC/elysia.gif">
-  <img align="left" style="transform: scaleX(-1);" width="25%" style="display:inline;" src="https://c.tenor.com/2uuLhWVyTvwAAAAC/elysia.gif">
+  <img align="left" style="transform:scaleX(-1)" width="25%" style="display:inline;" src="https://c.tenor.com/2uuLhWVyTvwAAAAC/elysia.gif">
 </p>
 
 <br>
