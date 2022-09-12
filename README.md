@@ -1,5 +1,5 @@
 <h1 align="center">Zeinshirou</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=0E00F7&center=true&width=435&lines=Welcome+%2F+%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B%E3%83%BC;My+Name+Is+Zen;Have+A+Look;And+Have+A+Nice+Day)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=0E00F7&center=true&width=435&lines=Welcome+%2F+%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B%E3%83%BC;My+Name+Is+Zen;Have+A+Look;And+Have+A+Nice+Day" alt="Typing SVG" /></a>
 <img align="right" alt="Picture" width="40%" src="https://c.tenor.com/2uuLhWVyTvwAAAAd/elysia.gif">
 
 <h3 align="left">Connect with me:</h3>
