@@ -1,7 +1,6 @@
-<body background-color="blue">
 <p>
-  <img align="right" width="30%" src="https://c.tenor.com/2uuLhWVyTvwAAAAC/elysia.gif">
-  <img align="left" width="30%" src="https://c.tenor.com/2uuLhWVyTvwAAAAC/elysia.gif">
+  <img align="right" width="20%" src="https://c.tenor.com/2uuLhWVyTvwAAAAC/elysia.gif">
+  <img align="left" width="20%" src="https://c.tenor.com/2uuLhWVyTvwAAAAC/elysia.gif">
 </p>
 
 <br>
@@ -34,4 +33,3 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeinshirou04&theme=dark&hide_border=false">
 </p>
-</body>
