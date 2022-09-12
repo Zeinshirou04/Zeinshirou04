@@ -1,5 +1,5 @@
-<img align="left" width="20%" src="[https://c.tenor.com/TN87_Wr7ZewAAAAd/honkai-elysia.gif](https://tenor.com/bWFvV.gif)">
-<img align="right" width="20%" src="[https://c.tenor.com/TN87_Wr7ZewAAAAd/honkai-elysia.gif](https://tenor.com/bWFvV.gif)">
+<img align="left" width="20%" src="[![image](https://user-images.githubusercontent.com/112927321/189669958-bbde5188-616c-4c01-91d8-f02e90efa409.png)](https://c.tenor.com/2uuLhWVyTvwAAAAC/elysia.gif)">
+<img align="right" width="20%" src="[[https://c.tenor.com/TN87_Wr7ZewAAAAd/honkai-elysia.gif](https://tenor.com/bWFvV.gif)](https://c.tenor.com/2uuLhWVyTvwAAAAC/elysia.gif)">
 
 <br>
 <p align="center">
