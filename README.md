@@ -3,6 +3,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=73F7C9&center=true&width=435&lines=%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4+Zen+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Zeinshirou+%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=73F7C9&center=true&width=435&lines=%F0%9F%91%8B+Welcome++%7C++%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B%E3%83%BC+%F0%9F%91%8B;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+My+Name+Is+Zen+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%91%80+Have+A+Look+%F0%9F%91%80;%F0%9F%98%8A+And+Have+A+Nice+Day+%F0%9F%98%8A" alt="Typing SVG" />
   </a>
 </p>
