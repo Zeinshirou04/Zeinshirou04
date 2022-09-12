@@ -1,7 +1,5 @@
-<p align="center">
-  <img align="left" src="[https://tenor.com/view/elysia-chibi-anime-gif-25071216](https://c.tenor.com/tPf-Uw7FsyEAAAAd/elysia-chibi-anime.gif)">
-  <img align="right" src="[https://tenor.com/view/elysia-chibi-anime-gif-25071216](https://c.tenor.com/tPf-Uw7FsyEAAAAd/elysia-chibi-anime.gif)">
-</p>
+<img align="left" src="[https://tenor.com/view/elysia-chibi-anime-gif-25071216](https://c.tenor.com/tPf-Uw7FsyEAAAAd/elysia-chibi-anime.gif)">
+<img align="right" src="[https://tenor.com/view/elysia-chibi-anime-gif-25071216](https://c.tenor.com/tPf-Uw7FsyEAAAAd/elysia-chibi-anime.gif)">
 
 <p align="center">
   <a href="https://git.io/typing-svg">
