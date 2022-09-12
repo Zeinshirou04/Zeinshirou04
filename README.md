@@ -2,8 +2,8 @@
 <img align="right" width="20%" src="[https://c.tenor.com/tPf-Uw7FsyEAAAAd/elysia-chibi-anime.gif](https://c.tenor.com/tPf-Uw7FsyEAAAAd/elysia-chibi-anime.gif)">
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=73F7C9&center=true&width=435&lines=%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4+Zen+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Zeinshirou+%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"
+     ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=73F7C9&center=true&width=435&lines=%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4+Zen+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Zeinshirou+%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
