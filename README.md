@@ -1,17 +1,23 @@
 <p align="center">
-  <h1 align="center">Zeinshirou</h1>
+  <h1>Zeinshirou</h1>
 </p>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&color=73F7C9&width=435&lines=Welcome+%2F+%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B%E3%83%BC;My+Name+Is+Zen;Have+A+Look;And+Have+A+Nice+Day" alt="Typing SVG" /></a>
+
+<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&duration=2000&pause=1000&color=73F7C9&center=true&width=435&lines=%F0%9F%91%8B+Welcome++%7C++%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B%E3%83%BC+%F0%9F%91%8B;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+My+Name+Is+Zen+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%91%80+Have+A+Look+%F0%9F%91%80;%F0%9F%98%8A+And+Have+A+Nice+Day+%F0%9F%98%8A" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">
   <img align="center" alt="Picture" width="30%" src="https://c.tenor.com/2uuLhWVyTvwAAAAd/elysia.gif">
 </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/zeinshirou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeinshirou" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/farras adhani zayn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farras adhani zayn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/farras adhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="farras adhani" height="30" width="40" /></a>
-<a href="https://instagram.com/zeinshirou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeinshirou" height="30" width="40" /></a>
+  <a href="https://twitter.com/zeinshirou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeinshirou" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/farras adhani zayn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farras adhani zayn" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/farras adhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="farras adhani" height="30" width="40" /></a>
+  <a href="https://instagram.com/zeinshirou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeinshirou" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
