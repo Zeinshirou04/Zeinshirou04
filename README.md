@@ -4,31 +4,9 @@ Name is Zayn, a web developer who enjoys building clean functional, and user-foc
 
 ## Tech Stack I used (some are loved)
 
-**Frontend**
-
-* JavaScript
-* TypeScript
-* React / Next.js
-* Laravel Blade
-
-**Backend**
-
-* Laravel
-* REST APIs
-
-**Database**
-
-* MySQL
-
-**Styles**
-* Tailwind CSS
-* Font Awesome
-
-**Tools & Others**
-
-* Git & GitHub
-* Linux (Debian-based systems)
-* Cloudflare Zero Trust
+| **Frontend** | **Backend** | **Database** | **Tools & Others** |
+|--------------|------------|--------------|--------------------|
+| JavaScript<br>TypeScript<br>React / Next.js<br>Laravel Blade | Laravel<br>REST APIs<br><br><br> | MySQL<br><br><br><br> | Git & GitHub<br>Linux (Debian-based systems)<br>Cloudflare Zero Trust<br><br> |
 
 ## Things I develop about myself
 
